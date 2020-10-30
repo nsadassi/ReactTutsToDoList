@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ReactTutsToDoLists/static/css/main.a85299cb.chunk.css",
-    "main.js": "/ReactTutsToDoLists/static/js/main.6f73f771.chunk.js",
-    "main.js.map": "/ReactTutsToDoLists/static/js/main.6f73f771.chunk.js.map",
-    "runtime-main.js": "/ReactTutsToDoLists/static/js/runtime-main.e0c25d93.js",
-    "runtime-main.js.map": "/ReactTutsToDoLists/static/js/runtime-main.e0c25d93.js.map",
-    "static/js/2.6a7ec6d8.chunk.js": "/ReactTutsToDoLists/static/js/2.6a7ec6d8.chunk.js",
-    "static/js/2.6a7ec6d8.chunk.js.map": "/ReactTutsToDoLists/static/js/2.6a7ec6d8.chunk.js.map",
-    "static/js/3.9842b692.chunk.js": "/ReactTutsToDoLists/static/js/3.9842b692.chunk.js",
-    "static/js/3.9842b692.chunk.js.map": "/ReactTutsToDoLists/static/js/3.9842b692.chunk.js.map",
-    "index.html": "/ReactTutsToDoLists/index.html",
-    "static/css/main.a85299cb.chunk.css.map": "/ReactTutsToDoLists/static/css/main.a85299cb.chunk.css.map",
-    "static/js/2.6a7ec6d8.chunk.js.LICENSE.txt": "/ReactTutsToDoLists/static/js/2.6a7ec6d8.chunk.js.LICENSE.txt"
+    "main.css": "/ReactTutsToDoList/static/css/main.a85299cb.chunk.css",
+    "main.js": "/ReactTutsToDoList/static/js/main.6f73f771.chunk.js",
+    "main.js.map": "/ReactTutsToDoList/static/js/main.6f73f771.chunk.js.map",
+    "runtime-main.js": "/ReactTutsToDoList/static/js/runtime-main.551bd525.js",
+    "runtime-main.js.map": "/ReactTutsToDoList/static/js/runtime-main.551bd525.js.map",
+    "static/js/2.6a7ec6d8.chunk.js": "/ReactTutsToDoList/static/js/2.6a7ec6d8.chunk.js",
+    "static/js/2.6a7ec6d8.chunk.js.map": "/ReactTutsToDoList/static/js/2.6a7ec6d8.chunk.js.map",
+    "static/js/3.9842b692.chunk.js": "/ReactTutsToDoList/static/js/3.9842b692.chunk.js",
+    "static/js/3.9842b692.chunk.js.map": "/ReactTutsToDoList/static/js/3.9842b692.chunk.js.map",
+    "index.html": "/ReactTutsToDoList/index.html",
+    "static/css/main.a85299cb.chunk.css.map": "/ReactTutsToDoList/static/css/main.a85299cb.chunk.css.map",
+    "static/js/2.6a7ec6d8.chunk.js.LICENSE.txt": "/ReactTutsToDoList/static/js/2.6a7ec6d8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0c25d93.js",
+    "static/js/runtime-main.551bd525.js",
     "static/js/2.6a7ec6d8.chunk.js",
     "static/css/main.a85299cb.chunk.css",
     "static/js/main.6f73f771.chunk.js"
